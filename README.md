@@ -6,4 +6,4 @@
 
 Apache is a Discord bot designed to help you get the most out of your Discord experience for free. \
 \
-With Apache, you can make use of a wide range of commands, from moderation commands, to automation, to music commands. Apache also provides a web interface to help you manage your server available at [this link](https://dashboard.apachebot.net).&#x20;
+With Apache, you can make use of a wide range of commands, from moderation commands, to automation, to music commands. Apache also provides a web interface to help you manage your server available at [this link](https://www.apachebot.net/dashboard).&#x20;
